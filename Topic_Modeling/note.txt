@@ -1,0 +1,4 @@
+MacOs-Arm64:
+
+conda activate topic_modeling_env
+conda install gensim

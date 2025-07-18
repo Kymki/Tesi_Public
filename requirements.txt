@@ -1,0 +1,16 @@
+pandas
+spacy
+langdetect
+telethon
+praw
+requests
+beautifulsoup4
+newspaper3k
+gensim
+matplotlib
+seaborn
+transformers
+torch 
+elasticsearch
+urllib3
+nltk
